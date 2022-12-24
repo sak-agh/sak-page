@@ -1,3 +1,10 @@
 @tailwind base;
+
+@layer base {
+    * {
+        font-family: Poppins, sans-serif;
+    }
+}
+
 @tailwind components;
 @tailwind utilities;
