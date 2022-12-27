@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 interface Props {
   size?: 'xs' | 's' | 'm' | 'l' | 'xl';
   img?: string;
