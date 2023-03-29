@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="agh_server" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="agh_server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html" local="$PROJECT_DIR$/build" web="www.sak.agh.edu.pl/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
